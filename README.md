@@ -43,7 +43,8 @@ The heart of this project is the Puppeteer script, which:
 ## **Setup Instructions**
 
 ### **1. Clone the Repository**
-git clone git@github.com:KristofferLarsson5/WebScraper.git
+git clone (git@github.com:KristofferLarsson5/WebScraper.git)
+
 cd project-directory
 
 ### **2. Install Dependencies**
