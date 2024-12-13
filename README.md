@@ -13,7 +13,7 @@ The heart of this project is the Puppeteer script, which:
   - **Stock Status**
   - **Rating**
   - **Page Link**
-- **Saves** the data in a well-structured JSON file (`books.json`), which can be directly used for analysis or further processing.
+- **Saves** the data in a JSON file (`books.json`), which can be directly used for analysis or further processing.
 
 ---
 
